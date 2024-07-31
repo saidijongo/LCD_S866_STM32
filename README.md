@@ -8,4 +8,8 @@ Git projects:
 
 3.https://github.com/emmebrusa/TSDZ2-Smart-EBike-LCD3/tree/master
 
-4.
+Datasheet J-LCD Protocol
+https://www.emubikes.com/wp-content/uploads/2020/12/J-LCD5S-protocol-From-KING-METER_1589857045208.pdf
+
+Datasheet S5-LCD Protocol
+https://www.ride66.com/ride66-manual-control-panel-lcd-s866
