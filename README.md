@@ -8,6 +8,8 @@ Git projects:
 
 3.https://github.com/emmebrusa/TSDZ2-Smart-EBike-LCD3/tree/master
 
+https://www.circuits-diy.com/1-3-inch-spi-oled-full-color-ips-display-module-with-arduino/
+
 Datasheet J-LCD Protocol
 https://www.emubikes.com/wp-content/uploads/2020/12/J-LCD5S-protocol-From-KING-METER_1589857045208.pdf
 
