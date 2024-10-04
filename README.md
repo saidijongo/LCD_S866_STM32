@@ -17,5 +17,6 @@ https://www.ride66.com/ride66-manual-control-panel-lcd-s866
 https://manuals.plus/wp-content/sideloads/lcd-s866--instruments-v1-0-operating-manual-optimized.pdf
 
 stm32
-https://www.displayfuture.com/Display/datasheet/controller/ILI9486L.pdf
+https://community.st.com/t5/stm32-mcus-products/stm32l0-code-start-and-execution-problems/td-p/691934[community]
+https://www.displayfuture.com/Display/datasheet/controller/ILI9486L.pdf[manual]
 
