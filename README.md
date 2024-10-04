@@ -16,3 +16,6 @@ https://odno-koleso.com/f/bortovoj_kompyuter_kugoo_m5.pdf
 https://www.ride66.com/ride66-manual-control-panel-lcd-s866
 https://manuals.plus/wp-content/sideloads/lcd-s866--instruments-v1-0-operating-manual-optimized.pdf
 
+stm32
+https://www.displayfuture.com/Display/datasheet/controller/ILI9486L.pdf
+
