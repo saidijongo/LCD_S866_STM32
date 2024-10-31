@@ -22,3 +22,6 @@ stm32
 https://community.st.com/t5/stm32-mcus-products/stm32l0-code-start-and-execution-problems/td-p/691934[community]
 https://www.displayfuture.com/Display/datasheet/controller/ILI9486L.pdf[manual]
 
+![image](https://github.com/user-attachments/assets/3b6ce61f-9aaa-4da0-935a-e2e0d1a0040e)
+
+
