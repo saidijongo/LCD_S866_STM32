@@ -23,6 +23,7 @@ https://community.st.com/t5/stm32-mcus-products/stm32l0-code-start-and-execution
 https://www.displayfuture.com/Display/datasheet/controller/ILI9486L.pdf[manual]
 
 
+https://endless-sphere.com/sphere/threads/vesc-uart-communication.73325/
 https://github.com/vedderb/bldc_uart_comm_stm32f4_discovery/tree/master[UART]
 https://github.com/gpxlBen/VESC_Logger
 https://github.com/jostsalathe/focan-uart
