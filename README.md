@@ -26,6 +26,8 @@ https://www.displayfuture.com/Display/datasheet/controller/ILI9486L.pdf[manual]
 https://endless-sphere.com/sphere/threads/vesc-uart-communication.73325/
 https://github.com/vedderb/bldc_uart_comm_stm32f4_discovery/tree/master[UART]
 https://github.com/gpxlBen/VESC_Logger
+https://github.com/RollingGecko/VescUartControl/tree/master[LUT]
+
 https://github.com/jostsalathe/focan-uart
 ![image](https://github.com/user-attachments/assets/3b6ce61f-9aaa-4da0-935a-e2e0d1a0040e)
 
