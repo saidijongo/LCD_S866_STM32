@@ -39,3 +39,4 @@ https://github.com/burklight/STM32-Programming/blob/master/STM32/Practica/lcd.c
 https://pastebin.com/u/phillip_bourdon234/1/A5NtUNFf
 https://community.st.com/t5/stm32-mcus-products/i2c-commands-to-lcd/td-p/150397
 https://controllerstech.com/stm32-fmc-how-to-configure-for-lcd/
+https://github.com/burklight/STM32-Programming/blob/master/STM32/Practica/lcd.c
