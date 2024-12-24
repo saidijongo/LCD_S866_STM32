@@ -27,14 +27,14 @@ https://endless-sphere.com/sphere/threads/vesc-uart-communication.73325/
 https://github.com/vedderb/bldc_uart_comm_stm32f4_discovery/tree/master[UART]
 https://github.com/gpxlBen/VESC_Logger
 https://github.com/RollingGecko/VescUartControl/tree/master[LUT]
-
+   
 Made stm32 lcd
 https://github.com/anszom/SW102_LCD/tree/sw102-new/firmware/SW102
 
 https://github.com/jostsalathe/focan-uart
 ![image](https://github.com/user-attachments/assets/3b6ce61f-9aaa-4da0-935a-e2e0d1a0040e)
 
-7segs
+7segments and projects
 https://github.com/burklight/STM32-Programming/blob/master/STM32/Practica/lcd.c
 https://pastebin.com/u/phillip_bourdon234/1/A5NtUNFf
 https://community.st.com/t5/stm32-mcus-products/i2c-commands-to-lcd/td-p/150397
