@@ -45,3 +45,4 @@ https://github.com/gammaEmitter/stm32f746_basic_drivers/tree/main
 
 STM32 7Segs 2mains
 https://community.st.com/t5/stm32cubeide-mcus/uart-data-on-lcd-display/td-p/594368
+https://deepbluembedded.com/stm32-lcd-16x2-tutorial-library-alphanumeric-lcd-16x2-interfacing/
