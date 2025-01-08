@@ -42,3 +42,6 @@ https://controllerstech.com/stm32-fmc-how-to-configure-for-lcd/
 https://github.com/burklight/STM32-Programming/blob/master/STM32/Practica/lcd.c
 
 https://github.com/gammaEmitter/stm32f746_basic_drivers/tree/main
+
+STM32 7Segs 2mains
+https://community.st.com/t5/stm32cubeide-mcus/uart-data-on-lcd-display/td-p/594368
